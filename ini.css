@@ -1,0 +1,41 @@
+.Kotak{
+  width: 1300px;
+  height: 600px;
+  background-color: #e2e8f0;
+  border: 2px solid #333333;
+  border-radius: 10px;
+  padding: 20px;
+  padding-bottom: 30px;
+  margin: 25px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Kotak2{
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  border: 2px solid white;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  padding-bottom: 30px;
+  margin: 25px;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.Kotak3{
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  border: 2px solid white;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  padding-bottom: 30px;
+  margin: 25px;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
